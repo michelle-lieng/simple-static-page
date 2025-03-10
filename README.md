@@ -1,2 +1,2 @@
 # simple-static-page
-HTML + CSS
+Using HTML + CSS to make my first static page!
